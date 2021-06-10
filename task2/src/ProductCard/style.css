@@ -1,0 +1,17 @@
+.ProductCard {
+  max-width: 250px;
+}
+
+.ProductCard__link {
+  width: 100%;
+  height: 100%;
+}
+
+.ProductCard__image {
+  width: 100%;
+}
+
+.ProductCard__info,
+.ProductCard__price {
+  padding: 15px;
+}

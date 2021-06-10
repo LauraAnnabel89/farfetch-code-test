@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Open Sans", sans-serif;
+  color: #222222;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+h1 {
+  font-size: 3rem;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+h2,
+p,
+span {
+  font-size: 1rem;
+  line-height: 1.5rem;
+}
+
+h2 {
+  font-weight: bold;
+}
+
+span {
+  color: #727272;
+}

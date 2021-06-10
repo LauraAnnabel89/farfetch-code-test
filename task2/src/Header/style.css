@@ -1,0 +1,23 @@
+.Header {
+  padding: 20px 0;
+}
+
+.Header__copy--container {
+  width: 75%;
+  margin: 0 auto;
+}
+
+.Header--sticky {
+  background-color: white;
+  height: 50px;
+  position: fixed;
+  top: 0;
+  left: 50%;
+  transform: translate(-50%, 0);
+  width: 100%;
+  padding: 20px;
+}
+
+.Header--sticky__logo {
+  max-width: 150px;
+}
