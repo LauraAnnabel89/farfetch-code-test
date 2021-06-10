@@ -16,7 +16,6 @@ function ProductGrid() {
   }, []);
 
 
-
   return (
     <>
       <div className="ProductGrid">

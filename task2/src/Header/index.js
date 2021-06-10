@@ -1,5 +1,4 @@
 import React from "react";
-import ProductFilter from "../ProductFilter";
 import "./style.css";
 
 function Header() {
