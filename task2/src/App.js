@@ -1,5 +1,6 @@
 import React from "react";
 import Header from "./Header";
+import ProductFilter from "./ProductFilter"
 import ProductGrid from "./ProductGrid";
 import "./App.css";
 
